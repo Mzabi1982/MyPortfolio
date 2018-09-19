@@ -1,0 +1,10 @@
+{
+  "particles": {
+    "number": {
+      "value": 400
+    },
+    "color": {
+      "value": "#ccc"
+    }
+  }
+}
